@@ -7,10 +7,8 @@
   <div align="center"> 
     <p>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=006622&background=000000&pause=1&multiline=true&duration=300&repeat=false&random=false&width=500&height=175&lines=f+=+open('README.md');with+open('README.md',+'r')+as+file:;file_contents+=+f.read();print(file_contents);f.close()" alt="Typing SVG" /></a>
-    </p>
-    <h1>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&delay=2000&size=40&color=2457AD&center=true&vCenter=true&pause=300&duration=3000&random=false&width=1000&height=100&lines=Hello+World!;Thanks+for+checking+out+my+Github!;Take+a+look+around+👀;All+feedback+is+welcomed!" alt="Typing SVG" /></a>
-    </h1>
+    </p>
     <br>
     <br>
   </div>
