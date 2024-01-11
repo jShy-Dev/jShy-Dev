@@ -17,7 +17,6 @@
       <div align="center">
       <h2>🚀 About Me</h2>
         <p>I'm an Engineer specializing in Backend Development, Application Support and Lifecycle/CMDB Management at the enterprize level. These repos host a few of my side-projects and creative endeavors. I'm spend every day with family or working and I currently develop in my rare off-hours (If inspiration hits). <br>😎 I enjoy Art, Gaming, Music & Chill vibes.</p>
-      <br>
       </div>
     </div>
     <div class="float-child">
@@ -32,6 +31,25 @@
       </div>
     </div>
   </div>
+  <h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<p align="center"> As an engineer, I've build up my toolbox with various languages over the years. Applying the right tools in order to produce an elegant solution from any complex problem comes with experience. <br>Here are some of the languages I use most regularly:</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
+</div>
+<h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
+<p align="center">In my day-to-day, I am responsible for architectign, deploying, and managing scalable, highly available, and fault-tolerant systems. <br>Here are a few technologies I use most regularly:</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</div>
+  
 </body>
 </html>
 <!--
