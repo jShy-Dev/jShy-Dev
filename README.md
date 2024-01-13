@@ -1,11 +1,8 @@
-<div align="center"> 
-  <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=006622&background=000000&pause=1&multiline=true&duration=300&repeat=false&random=false&width=500&height=175&lines=f+=+open('README.md');with+open('README.md',+'r')+as+file:;file_contents+=+f.read();print(file_contents);f.close()" alt="Typing SVG" /></a>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&delay=2000&size=40&color=2457AD&center=true&vCenter=true&pause=300&duration=3000&random=false&width=1000&height=100&lines=Hello+World!;Thanks+for+checking+out+my+Github!;Take+a+look+around+👀;All+feedback+is+welcomed!" alt="Typing SVG" /></a>
-  </p>
-  <br>
-  <br>
+<!--  Adding Contribution visualizer - Snake etc.
+<div align="center">
+    <img src="https://raw.githubusercontent.com/jShy-Dev/jShy-Dev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
+-->
 <div align="center">
   <h2>🚀 About Me</h2>
   <p>I'm an Engineer specializing in Backend Development, Application Support and Lifecycle/CMDB Management at the enterprize level. These repos host a few of my side-projects and creative endeavors.<br>😎 Likes: Art, Gaming, Music & Chill vibes.</p>
@@ -37,7 +34,17 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   </div>
+  <br>
 </div>  
+
+<div align="center"> 
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=006622&background=000000&pause=1&multiline=true&duration=300&repeat=false&random=false&width=500&height=175&lines=f+=+open('README.md');with+open('README.md',+'r')+as+file:;file_contents+=+f.read();print(file_contents);f.close()" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&delay=2000&size=40&color=2457AD&center=true&vCenter=true&pause=300&duration=3000&random=false&width=1000&height=100&lines=Hello+World!;Thanks+for+checking+out+my+Github!;Take+a+look+around+👀;All+feedback+is+welcomed!" alt="Typing SVG" /></a>
+  </p>
+  <br>
+  <br>
+</div>
 <!--
 **jShy-Dev/jShy-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
