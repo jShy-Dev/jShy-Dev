@@ -1,8 +1,13 @@
 <!--  Adding Contribution visualizer - Snake etc.
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/jShy-Dev/jShy-Dev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
+
 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&delay=2000&size=40&color=2457AD&center=true&vCenter=true&pause=300&duration=3000&random=false&width=1000&height=100&lines=Hello+World!;Thanks+for+checking+out+my+Github!;Take+a+look+around+👀;All+feedback+is+welcome!" alt="Typing SVG" /></a>
+  </p>
+</div>
 <div align="center">
   <h2>🚀 About Me</h2>
   <p>I'm an Engineer specializing in Backend Development, Application Support and Lifecycle/CMDB Management at the enterprize level. These repos host a few of my side-projects and creative endeavors.<br>😎 Likes: Art, Gaming, Music & Chill vibes.</p>
@@ -39,12 +44,13 @@
 
 <div align="center"> 
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=006622&background=000000&pause=1&multiline=true&duration=300&repeat=false&random=false&width=500&height=175&lines=f+=+open('README.md');with+open('README.md',+'r')+as+file:;file_contents+=+f.read();print(file_contents);f.close()" alt="Typing SVG" /></a>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&delay=2000&size=40&color=2457AD&center=true&vCenter=true&pause=300&duration=3000&random=false&width=1000&height=100&lines=Hello+World!;Thanks+for+checking+out+my+Github!;Take+a+look+around+👀;All+feedback+is+welcomed!" alt="Typing SVG" /></a>
-  </p>
-  <br>
-  <br>
-</div>
+
+<!--    //typing text effect with appearance of telling python in CLI to print the readme contents
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=006622&background=000000&pause=1&multiline=true&duration=300&repeat=false&random=false&width=500&height=175&lines=f+=+open('README.md');with+open('README.md',+'r')+as+file:;file_contents+=+f.read();print(file_contents);f.close()" alt="Typing SVG" /></a>
+
+-->
+      
 <!--
 **jShy-Dev/jShy-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
