@@ -10,17 +10,8 @@
 </div>
 <div align="center">
   <h2>🚀 About Me</h2>
-  <p>I'm an Engineer specializing in Backend Development, Application Support and Lifecycle/CMDB Management at the enterprize level. These repos host a few of my side-projects and creative endeavors.<br>😎 Likes: Art, Gaming, Music & Chill vibes.</p>
-  <h2>🎯 Goals</h2>
-  <p>I'm currently learning more about AI prompting, front-end frameworks & tools - not to mention open-source development.
-  <br> 
-  I am looking to collaborate on any projects that align with my background or interests - especially smaller-scale products with tight-knit teams.
-  <br>
-  Eager to build, explore, learn & contribute!
-  </p>
-  <h2>💻 Programming Languages</h2>
-  <p align="center"> Over my years in Engineering, I've filled my tool belt with various languages across a number of use cases. Applying the right tools in order to produce an elegant solution from any complex problem comes with experience. <br>Here are some of the languages I use most regularly:
-  </p>
+  <p>I'm an Engineer specializing in Backend Development, Application Support & Lifecycle/CMDB Management at the enterprize level. These repos host a few of my side-projects and creative endeavors.<br>😎 Likes: Art, Gaming, Music & Chill vibes.</p> 
+  <h2>💻 Languages I Use </h2>
   <div align="center">
     <img src="https://img.shields.io/badge/HTML+CSS-7c616f?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -30,7 +21,6 @@
     <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge" alt="YAML"/>
   </div> 
   <h2>☁️ Cloud Technologies</h2>
-  <p align="center">In my daily work I take great care to architect, deploy, and manage solutions for scalable, highly available, and fault-tolerant systems. <br>Here are a few technologies I use most regularly:</p>
   <div align="center">
     <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -39,6 +29,14 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   </div>
+  <p align="center">In my daily work I take great care to architect, deploy, and manage solutions for scalable, highly available, and fault-tolerant systems. <br>Here are a few technologies I use most regularly:</p>
+  <h2>🎯 Goals</h2>
+  <p>I'm currently learning more about advanced prompt engineering for generative AI and LLM toolsets.
+  <br> 
+  I spend a lot of my time learning new front-end frameworks & tools wherever possible. 
+  <br>
+  Eager to build, explore, learn & contribute!
+  </p>
   <br>
 </div>  
 
