@@ -5,7 +5,7 @@
 </div>
 
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&delay=2000&size=40&color=2457AD&center=true&vCenter=true&pause=300&duration=3000&random=false&width=1000&height=100&lines=Hello+World;Thanks+for+checking+out+my+Github!;Take+a+look+around+👀;All+feedback+is+welcome!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&delay=2000&size=40&color=2457AD&center=true&vCenter=true&pause=300&duration=2500&random=false&width=1000&height=100&lines=Hello+World;Thanks+for+checking+out+my+Github!;Take+a+look+around+👀;All+feedback+is+welcome!" alt="Typing SVG" /></a>
   </p>
 </div>
 <div align="center">
