@@ -10,7 +10,7 @@
 </div>
 <div align="center">
   <h2>🚀 About Me</h2>
-  <p>I'm an Engineer specializing in Backend Development, Application Support and Lifecycle/CMDB Management at the enterprize level. These repos host a few of my side-projects and creative endeavors.<br>😎 Likes: Art, Gaming, Music & Chill vibes.</p> 
+  <p>I'm an Engineer specializing in Backend Development, Application Support and Lifecycle/CMDB Management at the enterprise level. These repos host a few of my side-projects and creative endeavors.<br>😎 Likes: Art, Gaming, Music & Chill vibes.</p> 
   <h2>💻 Languages I Use </h2>
   <div align="center">
     <img src="https://img.shields.io/badge/HTML+CSS-7c616f?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
