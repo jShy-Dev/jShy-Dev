@@ -16,9 +16,10 @@
     <img src="https://img.shields.io/badge/HTML+CSS-7c616f?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/C%23-C%23?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=%23512BD4&color=%23512BD4"/>
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-    <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge" alt="YAML"/>
+    <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
   </div> 
   <h2>☁️ Cloud Technologies</h2>
   <div align="center">
