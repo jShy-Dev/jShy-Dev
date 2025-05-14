@@ -10,7 +10,7 @@
 </div>
 <div align="center">
   <h2>🚀 About Me</h2>
-  <p>I'm an Engineer specializing in Backend Development, Application Support and Lifecycle/CMDB Management at the enterprise level. These repos host a few of my side-projects and creative endeavors.<br>😎 Likes: Art, Gaming, Music & Chill vibes.</p> 
+  <p>I'm an Engineer specializing in Backend Development, Application Support and Lifecycle/CMDB Management at the enterprise level. These repos host a few of my side-projects and creative endeavors.<br>😎 Likes: Art, Gaming, Music, Weight Lifting, Reverse-engineering all manner of BS & Chill vibes.</p> 
   <h2>💻 Languages I Use </h2>
   <div align="center">
     <img src="https://img.shields.io/badge/HTML+CSS-7c616f?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -31,9 +31,9 @@
   </div>
   <p align="center">I take great care to architect, deploy, and manage solutions for scalable, highly available, and fault-tolerant systems in both professional and personal projects. </p>
   <h2>🎯 Goals</h2>
-  <p>I'm currently learning more about advanced prompt engineering for generative AI and LLM toolsets.
+  <p>I'm currently learning more about advanced agent building and prompt engineering for generative AI and LLM toolsets.
   <br> 
-  I spend a lot of my time learning new front-end frameworks & tools wherever possible. 
+  I spend a lot of my time tinkering with a variety of frameworks & tools wherever possible. Variety is the spice of life... Holy Buckets is that true!! 
   <br>
   Eager to build, explore, learn & contribute!
   </p>
