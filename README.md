@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
     <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
   </div> 
-  <h2>☁️ Cloud Technologies</h2>
+  <h2>☁️ Cloud + Deployment Tools I Use</h2>
   <div align="center">
     <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   </div>
-  <h2>🧩 Language Models & AI Tools</h2>
+  <h2>🧩 Language Models & AI Tools I Use</h2>
   <div align="center">
     <img src="https://img.shields.io/badge/Copilot-E20074?style=for-the-badge&logo=mscopilot&logoColor=white" alt="Copilot"/>
     <img src="https://img.shields.io/badge/GPT 4.0-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT"/>
